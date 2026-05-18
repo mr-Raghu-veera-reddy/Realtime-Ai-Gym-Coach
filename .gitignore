@@ -1,0 +1,18 @@
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# Python cache - you have these in multiple places
+__pycache__/
+*.pyc
+*.pyo
+
+# Local database
+data.db
+
+# OS junk
+.DS_Store
+Thumbs.db
