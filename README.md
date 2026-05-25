@@ -80,5 +80,5 @@ streamlit run main.py
 
 ---
 
-Built by **Raghu Veera Reddy** — B.Tech AI & ML, Marwadi University  
+Built by **Raghu Veera Reddy** 
 [GitHub](https://github.com/mr-Raghu-veera-reddy)
